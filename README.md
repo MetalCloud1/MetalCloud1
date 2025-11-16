@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi — I’m Gilberto  
 **Cloud · Security · Distributed Systems · Practical ML**
 
